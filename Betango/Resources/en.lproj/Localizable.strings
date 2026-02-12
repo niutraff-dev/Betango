@@ -1,0 +1,116 @@
+// MARK: - Common
+"common.ok" = "OK";
+"common.cancel" = "Cancel";
+"common.done" = "Done";
+"common.save" = "Save";
+"common.delete" = "Delete";
+"common.edit" = "Edit";
+"common.close" = "Close";
+"common.back" = "Back";
+"common.next" = "Next";
+"common.continue" = "Continue";
+"common.retry" = "Retry";
+"common.loading" = "Loading...";
+"common.error" = "Error";
+"common.success" = "Success";
+"common.complete" = "Complete";
+
+// MARK: - Tabs
+"tab.feature1" = "Calendar";
+"tab.feature2" = "Moves";
+"tab.feature3" = "Metronome";
+"tab.feature4" = "Dictionary";
+"tab.feature5" = "Settings";
+
+// MARK: - Feature 1
+"feature1.title" = "Calendar";
+"feature1.empty" = "No records yet";
+"feature1.date" = "Date";
+"feature1.time" = "Time";
+"feature1.name" = "Name";
+"feature1.name.placeholder" = "Enter name";
+
+// MARK: - Feature 2
+"feature2.title" = "Moves";
+"feature2.placeholder" = "Search...";
+"feature2.noResults" = "No results found";
+"feature2.detail.title" = "Details";
+"feature2.detail.content" = "This is the Feature 2 detail screen content.";
+"feature2.settings.title" = "Settings";
+"feature2.combo.name" = "Name of the combo";
+"feature2.combo.name.placeholder" = "Enter the name";
+"feature2.difficulty" = "Difficulty";
+"feature2.length" = "Length";
+"feature2.role" = "Role";
+"feature2.focus" = "Focus";
+"feature2.generate" = "Generate combo";
+"feature2.steps" = "%d steps";
+"feature2.steps.max" = "10 steps";
+"feature2.random.title" = "Random combo";
+"feature2.random.playTimer" = "Play with timer";
+"feature2.random.shuffle" = "Shuffle";
+"feature2.random.saveCombo" = "Save combo";
+"feature2.random.comboTitle" = "Combo";
+"feature2.random.save" = "Save";
+"feature2.timer.title" = "Play with timer";
+"feature2.timer.start" = "Start";
+"feature2.timer.stop" = "Stop";
+"feature2.timer.finish" = "Finish";
+"feature2.myCombos.title" = "My combos";
+"feature2.myCombos.create" = "Create combo";
+"feature2.myCombos.delete" = "Delete";
+"feature2.myCombos.edit" = "Edit";
+"feature2.myCombos.deleteAlert.title" = "Delete Combo?";
+"feature2.myCombos.deleteAlert.message" = "Do you really want to delete this Combo?";
+"feature2.addMove.title" = "Add move";
+"feature2.addMove.next" = "Next";
+"feature2.addMove.button" = "Add move";
+"common.yes" = "Yes";
+"common.no" = "No";
+
+// MARK: - Feature 3
+"feature3.title" = "Dictionary";
+
+// MARK: - Feature 4 (Metronome)
+"feature4.title" = "Metronome";
+"feature4.state.idle" = "Idle";
+"feature4.state.ready" = "Ready";
+"feature4.state.playing" = "Playing";
+"feature4.start" = "Start";
+"feature4.stop" = "Stop";
+"feature4.bpm" = "%d BPM";
+
+// MARK: - Settings
+"settings.title" = "Settings";
+"settings.privacyPolicy" = "Privacy Policy";
+"settings.termsOfUse" = "Terms of use";
+"settings.rateUs" = "Rate us";
+
+// MARK: - Errors
+
+"error.generic" = "Something went wrong";
+"error.network" = "Network error. Please check your connection.";
+"error.server" = "Server error. Please try again later.";
+
+// MARK: - Notifications
+
+"notification.message1.title" = "Daily Reminder";
+"notification.message1.body" = "Don't forget to check your tasks today!";
+"notification.message2.title" = "Stay on Track";
+"notification.message2.body" = "You're doing great! Keep up the momentum.";
+"notification.message3.title" = "Time for a Break";
+"notification.message3.body" = "Take a moment to refresh and recharge.";
+"notification.message4.title" = "Progress Update";
+"notification.message4.body" = "Check your progress and celebrate your wins!";
+"notification.message5.title" = "Keep Going";
+"notification.message5.body" = "Every step forward counts. You've got this!";
+"notification.message6.title" = "Daily Check-In";
+"notification.message6.body" = "How's your day going? Take a moment to reflect.";
+"notification.message7.title" = "Motivation Boost";
+"notification.message7.body" = "Remember why you started. You're making progress!";
+"notification.message8.title" = "Quick Reminder";
+"notification.message8.body" = "Don't forget to complete your daily goals.";
+"notification.message9.title" = "You're Awesome";
+"notification.message9.body" = "Keep up the excellent work!";
+"notification.message10.title" = "Evening Check";
+"notification.message10.body" = "Reflect on your day and plan for tomorrow.";
