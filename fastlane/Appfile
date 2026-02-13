@@ -1,0 +1,3 @@
+app_identifier("app.betango.com")
+apple_id(ENV["APPLE_ID"] || "{{APPLE_ID}}")
+team_id("GZ8AQ5P2F7")
