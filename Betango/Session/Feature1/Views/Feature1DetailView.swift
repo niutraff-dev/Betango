@@ -71,6 +71,8 @@ struct Feature1DetailView: View {
                     )
                     .datePickerStyle(.graphical)
                     .tint(Color.palette(.orangeColor))
+                    .foregroundStyle(Color.palette(.black900))
+                    .colorScheme(.light)
                 }
                 .padding(16)
                 .background(Color.palette(.white))
@@ -94,6 +96,8 @@ struct Feature1DetailView: View {
                     .datePickerStyle(.compact)
                     .labelsHidden()
                     .tint(Color.palette(.orangeColor))
+                    .foregroundStyle(Color.palette(.black900))
+                    .colorScheme(.light)
                 }
                 .padding(16)
                 .background(Color.palette(.white))
